@@ -1,7 +1,7 @@
 # Maintainer: Laura <54481689+Laurazepam@users.noreply.github.com> //turns out github doesn't forward to these addresses anymore so I'm not actually reachable there I might make a new address for this but idk who cares anyway right?
 
 pkgname=nginx-mainline-mod-headers-more
-pkgver=1.27.2
+pkgver=1.27.3
 pkgrel=1
 _headersver=0.37
 
